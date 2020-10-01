@@ -1,6 +1,6 @@
 // setup materialize components
 document.addEventListener('DOMContentLoaded', function() {
-
+//This has nothing to do with Firebase
   var modals = document.querySelectorAll('.modal');
   M.Modal.init(modals);
 
